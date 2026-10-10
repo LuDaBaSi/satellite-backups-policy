@@ -1,10 +1,4 @@
 
----
-layout: default
-title: Satellite Backups
-permalink: /
----
-
 # Satellite Backups
 
 **Personal backup infrastructure documentation**
