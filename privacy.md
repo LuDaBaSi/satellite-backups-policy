@@ -1,10 +1,3 @@
-
----
-layout: default
-title: Privacy Policy
-permalink: /privacy/
----
-
 # Privacy Policy
 
 **Last updated: 10 October 2026**
